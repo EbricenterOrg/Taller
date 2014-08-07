@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{5837501C-A273-4959-8F52-6324D441AA8A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EBRICENTER</RootNamespace>
+    <AssemblyName>Prototipo</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\Adavi\AppData\Roaming\ICSharpCode/SharpDevelop4\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.3.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.3.5\Assemblies\v2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="csCliente.cs" />
+    <Compile Include="csClienteBD.cs" />
+    <Compile Include="csConexion.cs" />
+    <Compile Include="wfReporteCte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfReporteCte.Designer.cs">
+      <DependentUpon>wfReporteCte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfBusqueda.Designer.cs">
+      <DependentUpon>wfBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfClientes.Designer.cs">
+      <DependentUpon>wfClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfInformacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfInformacion.designer.cs">
+      <DependentUpon>wfInformacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfMenu.Designer.cs">
+      <DependentUpon>wfMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="wfReporteCte.resx">
+      <DependentUpon>wfReporteCte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfBusqueda.resx">
+      <DependentUpon>wfBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfClientes.resx">
+      <DependentUpon>wfClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfInformacion.resx">
+      <DependentUpon>wfInformacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfMenu.resx">
+      <DependentUpon>wfMenu.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Cancelar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Aceptar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Guardar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Ajustes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Bases.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Buscar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Copiar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Cortar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Eliminar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Limpiar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Modificar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Nuevo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Pegar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Refrescar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Regresar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Reportes.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Siguiente.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\se.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\nuevo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
