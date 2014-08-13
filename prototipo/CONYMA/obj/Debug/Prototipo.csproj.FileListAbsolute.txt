@@ -1,0 +1,57 @@
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EbriCenter.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EBRICENTER.btnprodu.resources
+C:\Users\Rodrigo\Desktop\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\Rodrigo\Desktop\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.pdb
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\Prototipo.exe
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\Prototipo.pdb
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\bin\Debug\Prototipo.exe
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\bin\Debug\Prototipo.pdb
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfIngresoLibro.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfAutor.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfCorrienteLiteraria.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfEditorial.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfMateria.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfAcercaDe.resources
+D:\8vo. semestre\Diseño de Sistemas\biblioteca\proyecto\CONYMA\obj\Debug\EBRICENTER.wfMenuPrincipal.resources
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\Prototipo.exe
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\Prototipo.pdb
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\EBRICENTER.wfAcercaDe.resources
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\EBRICENTER.wfMenuPrincipal.resources
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\bin\Debug\Prototipo.exe
+D:\8vo. semestre\Diseño de Sistemas\ESTANDARIZACION\Estandarizacion Version 2\prototipo\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\prototipo\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\jose\Desktop\prototipo\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\EBRICENTER.wfAcercaDe.resources
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\EBRICENTER.wfMenuPrincipal.resources
+C:\Users\jose\Desktop\prototipo\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\EBRICENTER.wfAcercaDe.resources
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\EBRICENTER.wfMenuPrincipal.resources
+C:\Users\jose\Desktop\ER\prototipo\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
