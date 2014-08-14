@@ -1,0 +1,9 @@
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\obj\x86\Debug\proveedores taller.csprojResolveAssemblyReference.cache
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\obj\x86\Debug\proveedores_taller.proveedor.resources
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\obj\x86\Debug\proveedores_taller.BuscarProveedor.resources
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\obj\x86\Debug\proveedores_taller.Properties.Resources.resources
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\obj\x86\Debug\proveedores taller.csproj.GenerateResource.Cache
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\bin\Debug\proveedores taller.exe
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\bin\Debug\proveedores taller.pdb
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\obj\x86\Debug\proveedores taller.exe
+C:\Users\Abner Rodas\Documents\Visual Studio 2010\Projects\proveedores taller\proveedores taller\obj\x86\Debug\proveedores taller.pdb
