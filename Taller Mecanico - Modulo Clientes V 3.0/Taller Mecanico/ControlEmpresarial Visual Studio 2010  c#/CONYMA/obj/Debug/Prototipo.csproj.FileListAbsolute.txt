@@ -1,0 +1,161 @@
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EbriCenter.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\Rodrigo\Desktop\Nueva carpeta (2)\ControlEmpresarial\CONYMA\obj\Debug\EBRICENTER.btnprodu.resources
+C:\Users\Rodrigo\Desktop\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\Rodrigo\Desktop\ControlEmpresarial\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.btnprodu.resources
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\jose\Desktop\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfClientes.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\MySql.Data.dll
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfClientes.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.btnprodu.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfProveedor.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfEmpleado.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusqueda.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfFactura.resources
+C:\Users\Cesar Flores\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteCte.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfJornadaTrabajo.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteCte.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfFactura.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusqueda.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfEmpleado.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfProveedor.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfClientes.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfDepartamento.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe.config
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfAutomovil.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfTipoUsuario.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfUsuario.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusquedaEmpleado.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBuscarProveedor.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfMenu.resources
+C:\Users\EFPEM\Desktop\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteEmp.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe.config
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBuscarProveedor.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfAutomovil.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusquedaEmpleado.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfDepartamento.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfJornadaTrabajo.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteCte.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfFactura.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusqueda.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfEmpleado.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfProveedor.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfClientes.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfMenu.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteEmp.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfTipoUsuario.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfUsuario.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfRepuesto.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBuscarRepuesto.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteRep.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInvenarioRep.resources
+C:\Users\EFPEM\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReprteempleado.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe.config
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Database1.sdf
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBuscarProveedor.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfAutomovil.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBuscarRepuesto.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusquedaEmpleado.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfDepartamento.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInvenarioRep.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfJornadaTrabajo.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteCte.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfFactura.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusqueda.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfEmpleado.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfProveedor.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfClientes.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfMenu.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteEmp.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteRep.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReprteempleado.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfRepuesto.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfTipoUsuario.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfUsuario.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfServicio.resources
+C:\Users\User\Desktop\copiaTaller\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfTipoServicio.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe.config
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.exe
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.pdb
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Database1.sdf
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.exe
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\bin\Debug\Prototipo.pdb
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBuscarProveedor.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfAutomovil.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBuscarRepuesto.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusquedaEmpleado.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfDepartamento.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInvenarioRep.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfJornadaTrabajo.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteCte.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfFactura.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfBusqueda.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfEmpleado.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfProveedor.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.Properties.Resources.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfClientes.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfInformacion.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfIniciarSesion.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfMenu.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteEmp.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReporteRep.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfReprteempleado.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfRepuesto.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfServicio.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfTipoServicio.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfTipoUsuario.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\EBRICENTER.wfUsuario.resources
+C:\Users\User\Desktop\Instalador Otra forma\Taller Mecanico\ControlEmpresarial Visual Studio 2010  c#\CONYMA\obj\Debug\Prototipo.csproj.GenerateResource.Cache

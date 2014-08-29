@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{5837501C-A273-4959-8F52-6324D441AA8A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EBRICENTER</RootNamespace>
+    <AssemblyName>Prototipo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\Adavi\AppData\Roaming\ICSharpCode/SharpDevelop4\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\..\Program Files %28x86%29\MySQL\MySQL Connector Net 6.7.4\Assemblies\v2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bdtallerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdtallerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdtallerDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdtallerDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdtallerDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdtallerDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="csActualizacion.cs" />
+    <Compile Include="csAseguradora.cs" />
+    <Compile Include="csAutomovil.cs" />
+    <Compile Include="csAutomovilBD.cs" />
+    <Compile Include="csBuscarDatos.cs" />
+    <Compile Include="csCliente.cs" />
+    <Compile Include="csClienteBD.cs" />
+    <Compile Include="csconectar.cs" />
+    <Compile Include="csConexion.cs" />
+    <Compile Include="csDepartamento.cs" />
+    <Compile Include="csEliminar.cs" />
+    <Compile Include="csEmpleado.cs" />
+    <Compile Include="csFactura.cs" />
+    <Compile Include="csInsertarDatos.cs" />
+    <Compile Include="csJornada.cs" />
+    <Compile Include="csProveedor.cs" />
+    <Compile Include="csProveedorBD.cs" />
+    <Compile Include="csRepuesto.cs" />
+    <Compile Include="csServicio.cs" />
+    <Compile Include="csTipoServicio.cs" />
+    <Compile Include="csTipoServicioBD.cs" />
+    <Compile Include="csTipoUsuario.cs" />
+    <Compile Include="csUsuario.cs" />
+    <Compile Include="departamento.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>departamento.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taller2014DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller2014DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taller2014DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller2014DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taller2014DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller2014DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taller2014DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller2014DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taller2014DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller2014DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taller2014DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller2014DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="taller2014DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller2014DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wfBusacarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfBusacarProveedor.designer.cs">
+      <DependentUpon>wfBusacarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="TipoUsuario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TipoUsuario.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="wfAutomovil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfAutomovil.Designer.cs">
+      <DependentUpon>wfAutomovil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfBuscarRepuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfBuscarRepuesto.Designer.cs">
+      <DependentUpon>wfBuscarRepuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfBusquedaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfBusquedaEmpleado.Designer.cs">
+      <DependentUpon>wfBusquedaEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfDepartamento.Designer.cs">
+      <DependentUpon>wfDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfInvenarioRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfInvenarioRep.Designer.cs">
+      <DependentUpon>wfInvenarioRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfJornadaTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfJornadaTrabajo.Designer.cs">
+      <DependentUpon>wfJornadaTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfReporteCte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfReporteCte.Designer.cs">
+      <DependentUpon>wfReporteCte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfFactura.Designer.cs">
+      <DependentUpon>wfFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfBusqueda.Designer.cs">
+      <DependentUpon>wfBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfEmpleado.Designer.cs">
+      <DependentUpon>wfEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfProveedorI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfProveedorI.Designer.cs">
+      <DependentUpon>wfProveedorI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="wfClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfClientes.Designer.cs">
+      <DependentUpon>wfClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfInformacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfInformacion.designer.cs">
+      <DependentUpon>wfInformacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfIniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfIniciarSesion.designer.cs">
+      <DependentUpon>wfIniciarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfMenu.Designer.cs">
+      <DependentUpon>wfMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="wfReporteEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfReporteEmp.Designer.cs">
+      <DependentUpon>wfReporteEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfReporteRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfReporteRep.Designer.cs">
+      <DependentUpon>wfReporteRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfReprteempleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfReprteempleado.Designer.cs">
+      <DependentUpon>wfReprteempleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfRepuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfRepuesto.Designer.cs">
+      <DependentUpon>wfRepuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfServicio.Designer.cs">
+      <DependentUpon>wfServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfTipoServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfTipoServicio.Designer.cs">
+      <DependentUpon>wfTipoServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfTipoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfTipoUsuario.Designer.cs">
+      <DependentUpon>wfTipoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfUsuario.Designer.cs">
+      <DependentUpon>wfUsuario.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfBusacarProveedor.resx">
+      <DependentUpon>wfBusacarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfAutomovil.resx">
+      <DependentUpon>wfAutomovil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfBuscarRepuesto.resx">
+      <DependentUpon>wfBuscarRepuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfBusquedaEmpleado.resx">
+      <DependentUpon>wfBusquedaEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfDepartamento.resx">
+      <DependentUpon>wfDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfInvenarioRep.resx">
+      <DependentUpon>wfInvenarioRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfJornadaTrabajo.resx">
+      <DependentUpon>wfJornadaTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfReporteCte.resx">
+      <DependentUpon>wfReporteCte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfFactura.resx">
+      <DependentUpon>wfFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfBusqueda.resx">
+      <DependentUpon>wfBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfEmpleado.resx">
+      <DependentUpon>wfEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfProveedorI.resx">
+      <DependentUpon>wfProveedorI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfClientes.resx">
+      <DependentUpon>wfClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfInformacion.resx">
+      <DependentUpon>wfInformacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfIniciarSesion.resx">
+      <DependentUpon>wfIniciarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfMenu.resx">
+      <DependentUpon>wfMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfReporteEmp.resx">
+      <DependentUpon>wfReporteEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfReporteRep.resx">
+      <DependentUpon>wfReporteRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfReprteempleado.resx">
+      <DependentUpon>wfReprteempleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfRepuesto.resx">
+      <DependentUpon>wfRepuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfServicio.resx">
+      <DependentUpon>wfServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfTipoServicio.resx">
+      <DependentUpon>wfTipoServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfTipoUsuario.resx">
+      <DependentUpon>wfTipoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfUsuario.resx">
+      <DependentUpon>wfUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="bdtallerDataSet.xsc">
+      <DependentUpon>bdtallerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdtallerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdtallerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdtallerDataSet.xss">
+      <DependentUpon>bdtallerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdtallerDataSet1.xsc">
+      <DependentUpon>bdtallerDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdtallerDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdtallerDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdtallerDataSet1.xss">
+      <DependentUpon>bdtallerDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdtallerDataSet2.xsc">
+      <DependentUpon>bdtallerDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bdtallerDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdtallerDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdtallerDataSet2.xss">
+      <DependentUpon>bdtallerDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="departamento.xsc">
+      <DependentUpon>departamento.xsd</DependentUpon>
+    </None>
+    <None Include="departamento.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>departamento.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="departamento.xss">
+      <DependentUpon>departamento.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\Add.png" />
+    <None Include="taller2014DataSet.xsc">
+      <DependentUpon>taller2014DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller2014DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller2014DataSet.xss">
+      <DependentUpon>taller2014DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet1.xsc">
+      <DependentUpon>taller2014DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller2014DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller2014DataSet1.xss">
+      <DependentUpon>taller2014DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet2.xsc">
+      <DependentUpon>taller2014DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller2014DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller2014DataSet2.xss">
+      <DependentUpon>taller2014DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet3.xsc">
+      <DependentUpon>taller2014DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller2014DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller2014DataSet3.xss">
+      <DependentUpon>taller2014DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet4.xsc">
+      <DependentUpon>taller2014DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller2014DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller2014DataSet4.xss">
+      <DependentUpon>taller2014DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet5.xsc">
+      <DependentUpon>taller2014DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller2014DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller2014DataSet5.xss">
+      <DependentUpon>taller2014DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet6.xsc">
+      <DependentUpon>taller2014DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="taller2014DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller2014DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller2014DataSet6.xss">
+      <DependentUpon>taller2014DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="TipoUsuario.xsc">
+      <DependentUpon>TipoUsuario.xsd</DependentUpon>
+    </None>
+    <None Include="TipoUsuario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TipoUsuario.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TipoUsuario.xss">
+      <DependentUpon>TipoUsuario.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Cancelar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Aceptar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Guardar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Ajustes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Bases.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Buscar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Copiar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Cortar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Eliminar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Limpiar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Modificar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Nuevo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Pegar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Refrescar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Regresar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Reportes.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\iconos\Siguiente.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\se.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Images\Logotipo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
